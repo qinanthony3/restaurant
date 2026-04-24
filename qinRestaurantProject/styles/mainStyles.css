@@ -1,0 +1,52 @@
+/* Restaurant Website CSS */
+
+/* Page background and base font */
+body {
+    background-color: #f5f5f5;   /* non-white background */
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Main heading */
+h1 {
+    text-align: center;
+    color: #8b0000;
+}
+
+/* Subheadings */
+h2 {
+    color: #333333;
+    text-decoration: underline;
+}
+
+/* Smaller headings */
+h3 {
+    color: #555555;
+}
+
+/* Paragraph formatting */
+p {
+    line-height: 1.5;
+    font-size: 16px;
+}
+
+/* Lists */
+ul, ol {
+    margin-left: 40px;
+}
+
+/* Images */
+img {
+    max-width: 6500000px;
+    margin: 10px;
+    border: 2px solid #333333;
+}
+
+/* Links */
+a {
+    color: #0066cc;
+}
+
+a:hover {
+    color: #cc0000;
+}
